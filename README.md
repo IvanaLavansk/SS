@@ -1,5 +1,7 @@
-## Домашнее задание к занятию «2.2. Selenide»
-# Настройка CI
+[![Build status](https://ci.appveyor.com/api/projects/status/hlon062mpfvtl692?svg=true)](https://ci.appveyor.com/project/IvanaLavansk/ss)
+
+# Домашнее задание к занятию «2.2. Selenide»
+## Настройка CI
 Настройка CI осуществляется аналогично предыдущему заданию, за исключением того, что файл целевого сервиса теперь называется app-card-delivery.jar.
 
 Задача №1: заказ доставки карты
