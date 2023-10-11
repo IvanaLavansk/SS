@@ -26,6 +26,7 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
+/driver/
 
 ### VS Code ###
 .vscode/
